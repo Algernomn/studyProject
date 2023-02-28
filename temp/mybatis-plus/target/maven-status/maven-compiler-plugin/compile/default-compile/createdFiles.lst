@@ -1,0 +1,7 @@
+com\tyut\mybatisplus\mapper\UserMapper.class
+com\tyut\mybatisplus\MybatisPlusApplication.class
+com\tyut\mybatisplus\config\MyBatisPlusConfig.class
+com\tyut\mybatisplus\service\impl\UserSerivce.class
+com\tyut\mybatisplus\config\MyFastAutoGenerator.class
+com\tyut\mybatisplus\service\IUserService.class
+com\tyut\mybatisplus\pojo\User.class
